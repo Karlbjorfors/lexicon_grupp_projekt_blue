@@ -1,0 +1,78 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@apideck/better-ajv-errors": "^0.3.6",
+    "@cloudinary/react": "^1.14.1",
+    "@cloudinary/url-gen": "^1.21.0",
+    "@deemlol/next-icons": "^0.1.9",
+    "@dnd-kit/accessibility": "^3.1.1",
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.1.0",
+    "@mui/material": "^7.1.0",
+    "@mui/styled-engine": "^7.1.0",
+    "@react-pdf/renderer": "^4.3.0",
+    "@tailwindcss/postcss": "^4.1.5",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.9.0",
+    "cloudinary": "^2.6.1",
+    "cors": "^2.8.5",
+    "dnd-kit": "^0.0.2",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "firebase": "^11.7.1",
+    "multer": "^1.4.5-lts.2",
+    "next": "^15.3.2",
+    "postcss": "^8.5.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.6.0",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^4.1.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "- Go to folder you want project in\r - git clone https://github.com/joipoi/Lexicon_GruppProjekt_Blue.git\r - cd Lexicon_GruppProjekt_Blue\r - npm install\r - npm start",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joipoi/Lexicon_GruppProjekt_Blue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joipoi/Lexicon_GruppProjekt_Blue/issues"
+  },
+  "homepage": "https://github.com/joipoi/Lexicon_GruppProjekt_Blue#readme"
+}
